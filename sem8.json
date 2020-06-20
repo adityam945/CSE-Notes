@@ -1,0 +1,40 @@
+[
+  {
+    "title": "sem4",
+    "data": [
+      {
+        "subname": " Internet of Things Technology 15CS81",
+        "datamod": [
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/IOT_module_3.pdf",
+            "name": "Module 3"
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/IOT_module_5.pdf",
+            "name": "Module 5"
+          }
+        ]
+      },
+
+      {
+        "subname": " Big Data Analytics 15CS82",
+        "datamod": [
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/Module1_hadoop.pdf",
+            "name": "Module 1"
+          }
+        ]
+      },
+
+      {
+        "subname": "User Interface Design / 15CS832",
+        "datamod": [
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/UID-15CS832-module-1.pdf",
+            "name": "Module 1 to 5"
+          }
+        ]
+      }
+    ]
+  }
+]
