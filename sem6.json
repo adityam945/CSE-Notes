@@ -1,0 +1,98 @@
+[
+  {
+    "title": "sem4",
+    "data": [
+      {
+        "subname": "Cryptography, Network Security & Cyber 15CS61/ 17CS61",
+        "datamod": [
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/CNC-MODULE2.pdf",
+            "name": "Module 2"
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/CNC-module-3.pdf",
+            "name": "Module 3"
+          }
+        ]
+      },
+
+      {
+        "subname": " System Software and Compiler Design 15CS63/ 17CS63",
+        "datamod": [
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/ss-mod1.pdf",
+            "name": "Module 1"
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/module5-SDT.pdf",
+            "name": "Module 5"
+          }
+        ]
+      },
+
+      {
+        "subname": "Computer Graphics 15CS62/17CS62",
+        "datamod": [
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/CG-Module-1.pdf",
+            "name": "Module 1"
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/CG-module-2.pdf",
+            "name": "Module 2"
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/CG-module-3.pdf",
+            "name": "Module 3"
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/CG-module-4.pdf",
+            "name": "Module 4"
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/CG-module-5.pdf",
+            "name": "Module 5"
+          }
+        ]
+      },
+
+      {
+        "subname": "Operating System",
+        "datamod": [
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/OS-MODULE_2.pdf",
+            "name": "Module 2"
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/OS-MODULE_3.pdf",
+            "name": "Module 3"
+          }
+        ]
+      },
+
+      {
+        "subname": " Operation Research- 17CS653",
+        "datamod": [
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/1585041316993_Module-4.pdf",
+            "name": "Module 4"
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/Operation-Research-17CS653-Module-5.pdf",
+            "name": "Module 5"
+          }
+        ]
+      },
+
+      {
+        "subname": " Python Application Programming - 15CS6643",
+        "datamod": [
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/python-application-programming-17cs664.pdf",
+            "name": "Module 1 to 5"
+          }
+        ]
+      }
+    ]
+  }
+]
