@@ -1,0 +1,87 @@
+[
+  {
+    "title": "sem4",
+    "data": [
+      {
+        "subname": "OS",
+        "datamod": [
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/MODULE_2.pdf",
+            "name": "Module 2"
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/MODULE_3.pdf",
+            "name": "Module 3"
+          }
+        ]
+      },
+
+      {
+        "subname": "Object-Oriented Concepts",
+        "datamod": [
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/oopsmod2.pdf",
+            "name": "Module 2"
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/oopsmod3.pdf",
+            "name": "Module 3"
+          }
+        ]
+      },
+
+      {
+        "subname": "Data Communication",
+        "datamod": [
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/DC-notes.pdf",
+            "name": "Module 1 to 5"
+          }
+        ]
+      },
+
+      {
+        "subname": "Microcontroller and Embedded Systems",
+        "datamod": [
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/MES-Module-1.pdf",
+            "name": "Module 1"
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/MES-Module-2.pdf",
+            "name": "Module 2"
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/MES-Module_3.pdf",
+            "name": "Module 3"
+          }
+        ]
+      },
+      {
+        "subname": "Design and Analysis of Algorithms ",
+        "datamod": [
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/Module1_DAA.pdf",
+            "name": "Module 1 "
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/Module2_DAA.pdf",
+            "name": "Module 2"
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/Module3_DAA.pdf",
+            "name": "Module 3"
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/Module4_DAA.pdf",
+            "name": "Module 4"
+          },
+          {
+            "link": "https://www.acsce.edu.in/acsce/wp-content/uploads/2020/03/Module5_DAA.pdf",
+            "name": "Module5"
+          }
+        ]
+      }
+    ]
+  }
+]
